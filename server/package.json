@@ -1,0 +1,15 @@
+{
+  "name": "voicecare",
+  "version": "1.0.0",
+  "description": "interview_task",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.5.0",
+    "nodemon": "^2.0.15"
+  }
+}
